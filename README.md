@@ -27,6 +27,5 @@ An overall brightness effect can be applied to a section of the map outlined wit
 Effect groups act as an interface for world interactions. Map graphics are added to effect groups, which listen for given triggers. Effect triggers are typically an area on the map outlined by a polygon that can be activated by certain characters and objects. Triggers can also be operated manually in the code. The triggered effect is typically a change in position, orientation, transparency, or a similar effect. Effects have the format of two dinstinct states, with the trigger causing a transition between states.
 #### Objects, Characters, and Particle Effects
 Once the foundation of the map has been built, objects, characters, and particle effects can be added at specified locations on the map. This is typically the last step in the map design process.
-
 ### Renderer
 A single renderer is used to display graphics. This modular approach allows rendering to be entirely disabled without affecting any other part of the engine. Graphics can be displayed using either stamping or clones, depending on developer preference, and the engine can switch between these modes at runtime if necessary.
