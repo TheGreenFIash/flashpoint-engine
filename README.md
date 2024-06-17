@@ -31,14 +31,25 @@ Once the foundation of the map has been built, objects, characters, and particle
 A single renderer is used to display graphics. This modular approach allows rendering to be entirely disabled without affecting any other part of the engine. Graphics can be displayed using either stamping or clones, depending on developer preference, and the engine can switch between these modes at runtime if necessary.
 
 ## Planned Timeline
-### June 2024 - particle effect GUI
-### July 2024 - screen shake efect GUI and YouTube devlog
-### August 2024 - map lighting and parallax backend
-### September 2024 - map graphics and parallax GUI
-### October 2024 - map collisions and pathfinding GUI
-### November 2024 - YouTube devlog
-### December 2024 - map effect groups and lighting GUI
-### January 2025 - map objects, characters, and particle effects GUI
-### February 2025 - editor menu and default assets
-### March 2025 - assemble engine, beta-test, and YouTube devlog
-### April 2025 - publish engine and YouTube tutorial
+### June 2024
+particle effect GUI
+### July 2024
+screen shake efect GUI and YouTube devlog
+### August 2024
+map lighting and parallax backend
+### September 2024
+map graphics and parallax GUI
+### October 2024
+map collisions and pathfinding GUI
+### November 2024
+YouTube devlog
+### December 2024
+map effect groups and lighting GUI
+### January 2025
+map objects, characters, and particle effects GUI
+### February 2025
+editor menu and default assets
+### March 2025
+assemble engine, beta-test, and YouTube devlog
+### April 2025
+publish engine and YouTube tutorial
