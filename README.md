@@ -32,9 +32,9 @@ A single renderer is used to display graphics. This modular approach allows rend
 
 ## Planned Timeline
 ### June 2024
-particle effect GUI
+particle effect GUI (done)
 ### July 2024
-screen shake efect GUI and YouTube devlog
+screen shake effect GUI and YouTube devlog
 ### August 2024
 map lighting and parallax backend
 ### September 2024
