@@ -34,22 +34,24 @@ A single renderer is used to display graphics. This modular approach allows rend
 ### June 2024
 particle effect GUI (done)
 ### July 2024
-screen shake effect GUI and YouTube devlog
+too busy, no work done
 ### August 2024
-map lighting and parallax backend
+screen shake effect GUI and YouTube devlog
 ### September 2024
-map graphics and parallax GUI
+map lighting and parallax backend
 ### October 2024
-map collisions and pathfinding GUI
+map graphics and parallax GUI
 ### November 2024
-YouTube devlog
+map collisions and pathfinding GUI
 ### December 2024
-map effect groups and lighting GUI
+YouTube devlog
 ### January 2025
-map objects, characters, and particle effects GUI
+map effect groups and lighting GUI
 ### February 2025
-editor menu and default assets
+map objects, characters, and particle effects GUI
 ### March 2025
-assemble engine, beta-test, and YouTube devlog
+editor menu and default assets
 ### April 2025
+assemble engine, beta-test, and YouTube devlog
+### May 2025
 publish engine and YouTube tutorial
